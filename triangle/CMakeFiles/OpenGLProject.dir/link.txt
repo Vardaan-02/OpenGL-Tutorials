@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGLProject.dir/main.cpp.o -o bin/OpenGLProject  /usr/lib64/libGL.so /usr/lib64/libglfw.so.3.3 /usr/lib64/libGLEW.so

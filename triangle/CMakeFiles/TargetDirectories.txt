@@ -1,0 +1,3 @@
+/home/vardaan/low level coding/game dev/tutorials/triangle/CMakeFiles/OpenGLProject.dir
+/home/vardaan/low level coding/game dev/tutorials/triangle/CMakeFiles/edit_cache.dir
+/home/vardaan/low level coding/game dev/tutorials/triangle/CMakeFiles/rebuild_cache.dir
